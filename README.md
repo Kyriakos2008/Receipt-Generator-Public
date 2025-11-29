@@ -54,6 +54,28 @@ The app uses **ttkbootstrap** for a clean, modern interface.
 - **SumatraPDF** (silent printing)
 - **JSON** (customer data storage)
 
+---
+
+## 🖥️ Application Screenshots
+
+Below are screenshots of the application's user interface using placeholder data.  
+These images show the main features and layout of the tool.
+
+### 📌 Main Window
+The central hub where you can:
+- Enter receipt information  
+- Select customers  
+- Add notes  
+- Generate & print receipts  
+
+![Main Window](main_window.png)
+
+---
+
+### 📌 Customers List
+View, select, and remove saved customers.
+
+![Customer List](add_customer.png)
 
 ---
 
