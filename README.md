@@ -41,8 +41,6 @@ The app uses **ttkbootstrap** for a clean, modern interface.
 
 ## 🖼️ Sample Receipt
 
-*(Replace this with your own sample image)*
-
 ![Sample Receipt](sample_receipt.png)
 
 ---
